@@ -1,1 +1,0 @@
-telegramToken = "793373378:AAHuYi9h8tSCRboLvWQmheNb-zYfAITKOgg"
