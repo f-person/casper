@@ -1,2 +1,2 @@
 # casper
-casper - AI chatfriend, that lives in telegram.
+casper - an AI chatfriend, who lives in telegram.
